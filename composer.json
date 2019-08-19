@@ -1,0 +1,12 @@
+{
+    "name": "mapkyca/console-listusers",
+    "type": "known-console",
+    "description": "Quickly list system users, or optional admin users",
+    "version": "1.0.0",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-name": "ListUsers"
+    }
+}
